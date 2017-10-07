@@ -1,0 +1,16 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^14.4.0",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {},
+  "description": "#### _A practice project implementing JavaScript, Node, and Typescript, 10.01.2017_"
+}
