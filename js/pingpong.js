@@ -10,15 +10,15 @@ Calculator.prototype.pingPong = function(goal) {
     if (i % 15 === 0) {
       output.push("ping-pong");
     } else if (i % 3 === 0) {
-      output.push("ping")
+      output.push("ping");
     } else if (i % 5 === 0) {
-      output.push("pong")
+      output.push("pong");
     } else {
       output.push(i);
     }
   }
   return output;
-}
+};
 
 // exporting our calculator obj with node
 exports.calculatorModule = Calculator;
