@@ -9,7 +9,15 @@
   "license": "ISC",
   "devDependencies": {
     "browserify": "^14.4.0",
-    "gulp": "^3.9.1"
+    "concat": "^1.0.3",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.5",
+    "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {},
   "description": "#### _A practice project implementing JavaScript, Node, and Typescript, 10.01.2017_"
