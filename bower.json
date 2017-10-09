@@ -1,0 +1,19 @@
+{
+  "name": "ping-pong",
+  "description": "#### _A practice project implementing JavaScript, Node, and Typescript, 10.01.2017_",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/mostriki/ping-pong-ang-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
